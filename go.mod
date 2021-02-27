@@ -1,0 +1,1 @@
+module "github.com/jmross14/smarthome-garagedoor"
